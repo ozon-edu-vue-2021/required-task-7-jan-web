@@ -1,6 +1,5 @@
 @import "reset.css";
 @import "http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css";
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -167,6 +166,15 @@ body {
   -webkit-transform: translate3d(0, 630px, 0);
           transform: translate3d(0, 630px, 0);
 }
+#container .list-view ul li:nth-child(11) {
+  -webkit-transform: translate3d(0, 700px, 0);
+          transform: translate3d(0, 700px, 0);
+}
+#container .list-view ul li:nth-child(12) {
+  -webkit-transform: translate3d(0, 770px, 0);
+          transform: translate3d(0, 770px, 0);
+}
+
 
 #container .list-view ul li:hover {
   background: #efefef;
